@@ -1,4 +1,4 @@
-# InstantMessaging : 即时通讯后台系统（基于webSocket和netty实现即时通讯）
+# InstantMessaging : 即时通讯系统（基于webSocket和netty实现即时通讯
 ## 前端代码仓库 ：[InstantMessagingMui](https://github.com/zhaohai1299002788/InstantMessagingMui)
 <div align="center">
     <img src="https://github.com/zhaohai1299002788/InstantMessaging/blob/master/src/main/resources/static/image/登陆注册.png" height="250" width="130"/>
